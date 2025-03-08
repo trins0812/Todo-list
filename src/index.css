@@ -46,7 +46,7 @@ body {
   
   .app-container.dark {
     background-color: #333;
-    color: white;
+    color: grey;
   }
   
   input {
